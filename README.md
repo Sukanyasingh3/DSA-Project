@@ -40,6 +40,8 @@ To get started with the DSA Project, follow these steps:
 - **Real-time Communication:** Graphs
 
 ## Contribution Guidelines
+![1](https://github.com/Sukanyasingh3/DSA-Project-Social-Network-Graphs/assets/113462236/9d6c2cf7-9cf3-44cf-8108-94089bcb6f85)
+
 
 We welcome contributions from the community! If you'd like to contribute to the project, please follow these guidelines:
 
