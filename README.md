@@ -18,21 +18,21 @@ Welcome to the DSA Project: Social Network using Graph! This project is designed
 
 To get started with the DSA Project, follow these steps:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/dsa-social-network.git
-   cd dsa-social-network
-   ```
+**Clone the Repository:**
 
-2. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
+```bash
+git clone https://github.com/TartejBrothers/Social-Media-Network.git
+cd social-media-network
+```
 
-3. **Run the Application:**
-   ```bash
-   npm start
-   ```
+- To compile
+  ```
+  gcc `pkg-config --cflags gtk+-3.0` -o gui gui.c `pkg-config --libs gtk+-3.0`
+  ```
+- To run
+  ```
+  ./gui
+  ```
 
 ## Technologies Used
 
